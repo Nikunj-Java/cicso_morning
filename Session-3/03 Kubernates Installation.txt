@@ -218,6 +218,9 @@ response: Hi!! <Your name>
 5. BUILD DOCKER IMAGE
 -------------------------
 > sudo docker build -t dockerdemo .
+
+
+
 > sudo docker images
 
 
@@ -241,4 +244,5 @@ response: Hi!! <Your name>
 	2. TO GET DETAILED DESCRIPTION OF APP RUNNING ON POD
 	-----------------------------------------------------
 	> kubectl describe svc dockerdemo
+ 
  
